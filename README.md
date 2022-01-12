@@ -3,6 +3,7 @@ This is a Fossil Image Dateset, which contains >415000 images. A total of 50 cla
 
 
 Terms of access for the Fossil Image Dataset (FID)
+
 For access to the Fossil Image Dataset, you will need to agree to our terms of access. The "Researcher" has requested permission to use the Fossil Image Dataset (the "FID") from AI-fossil team. In exchange for such permission, Researcher hereby agrees to the following terms and conditions:
 1. Researcher shall use the FID only for non-commercial research and educational purposes.
 2. AI-fossil team makes no representations or warranties regarding the FID, including but not limited to warranties of non-infringement or fitness for a particular purpose.
