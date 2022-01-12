@@ -2,6 +2,7 @@
 This is a Fossil Image Dateset, which contains >415000 images. A total of 50 clades were labeled, and with final 90% of the accuracy. We used the web crawler to download the fossil images from the Internet. We declare that all the collected images are used for academic purposes only. If anyone wants to use this dataset, the images have uploaded in Google Drive: FID: https://drive.google.com/drive/folders/1pkRfm23lPjaR5lT57UiF43IgN-BC8Cz6?usp=sharing mini-FID: https://drive.google.com/drive/folders/1Qf9MwFG-K6kaXtn9oQMt92IUjAJkqNs_?usp=sharing or contact with me (Xiaokang Liu, a PhD candidate from China University of Geosciences, email : xkliu@cug.edu.cn).
 
 
+
 Terms of access for the Fossil Image Dataset (FID)
 
 For access to the Fossil Image Dataset, you will need to agree to our terms of access. The "Researcher" has requested permission to use the Fossil Image Dataset (the "FID") from AI-fossil team. In exchange for such permission, Researcher hereby agrees to the following terms and conditions:
